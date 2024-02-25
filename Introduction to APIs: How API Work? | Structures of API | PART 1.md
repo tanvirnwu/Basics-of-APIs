@@ -1,8 +1,9 @@
 ## Introduction
+-------
 An API (Application Programming Interface) is a set of protocols and tools for building software applications. It acts as a bridge that allows different software programs to communicate with each other. APIs define the methods and data formats that developers can use to interact with the software components, whether they are part of the same system or belong to external services. For instance, when you use an app on your phone to check the weather, the app uses an API to request data from a remote server. The API handles this interaction, ensuring that the app can display the information without needing to understand the details of how the server retrieves the weather data. APIs are essential in modern software development, enabling seamless integration and function sharing across diverse platforms and services.
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F12922590%2F8e90e10d27e9feedf34050a82ab06de9%2FAPI-01.jpg?generation=1708853441263425&alt=media)
-
+-------
 ## Working Process of APIs
 An Application Programming Interface (API) is a set of protocols that allows different software applications to communicate. It consists of:
 
@@ -48,7 +49,7 @@ An Application Programming Interface (API) is a set of protocols that allows dif
 
 **Documentation:** Well-designed APIs are accompanied by thorough documentation. Such documentation provides detailed instructions on utilizing the API, outlines the endpoints available, and describes the expected formats for requests and responses. It also includes guidelines for authentication processes. This information is vital for developers to effectively understand and integrate with the API.
 
-
+-------
 ## Structure  of API URLs
 An example of the API structure is as follows:
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F12922590%2F1a2e09683554f48292d42a74224b43bc%2FAPI-02.jpg?generation=1708853589342728&alt=media)
@@ -74,5 +75,7 @@ represents a URI where various components are specified. A Uniform Resource Loca
 **Here is a Coding example of APIs in Python:** [Application Programming Interface (API)](https://www.kaggle.com/code/tanvirnwu/application-programming-interface-api?scriptVersionId=164232017)
 
 Please let me know in the comment section if this helps and if you are interested in reading the second part. I will post the second part ASAP. Please stay tuned for the next part of APIs.
+-------
 
 Special thanks to [Akansha Yadav](https://www.linkedin.com/in/akansha-yadav-4bb7321a9/)!
+-------
