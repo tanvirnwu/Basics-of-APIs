@@ -34,14 +34,14 @@ An Application Programming Interface (API) is a set of protocols that allows dif
 
 **Status Codes:** The server responds with these codes, which indicate the outcome of the API call, such as 200 for success or 404 for not found. The other status codes are as follows:
 
-| Status Code | Indication | | | Status Code | Indication |
+| Status Code | Indication | | Status Code | Indication |
 | --- | --- | --- | --- |
-| 1XX | Informational| | | 4XX| Client Error|
-| 100| Everything So Far Is OK| | | 401| Unauthorized|
-| 2XX| Success| | | 403| Forbidden|
-| 200| OK| | | 404| Not Found|
-| 3XX| Redirection| | | 500| Server Error|
-| 300| Multiple Choices| | | 501| No Implemented|
+| 1XX | Informational| | 4XX| Client Error|
+| 100| Everything So Far Is OK| | 401| Unauthorized|
+| 2XX| Success| | 403| Forbidden|
+| 200| OK| | 404| Not Found|
+| 3XX| Redirection| | 500| Server Error|
+| 300| Multiple Choices| | 501| No Implemented|
 
 
 **Authentication:** Authentication is a critical feature of many APIs, serving as a gateway to ensure that only vetted users or services have access to specified resources. Common methods for API authentication include the use of API keys, OAuth tokens, and various other secure mechanisms.
