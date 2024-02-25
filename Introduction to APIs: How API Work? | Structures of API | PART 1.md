@@ -39,7 +39,7 @@ An Application Programming Interface (API) is a set of protocols that allows dif
 | 1XX | Informational | 4XX| Client Error|
 | 100| Everything So Far Is OK | 401| Unauthorized|
 | 2XX| Success| 403| Forbidden|
-| 200| OK| | 404| Not Found|
+| 200| OK | 404 | Not Found|
 | 3XX| Redirection| 500| Server Error|
 | 300| Multiple Choices|  501| No Implemented|
 
