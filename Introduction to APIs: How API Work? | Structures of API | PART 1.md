@@ -75,7 +75,6 @@ represents a URI where various components are specified. A Uniform Resource Loca
 **Here is a Coding example of APIs in Python:** [Application Programming Interface (API)](https://www.kaggle.com/code/tanvirnwu/application-programming-interface-api?scriptVersionId=164232017)
 
 Please let me know in the comment section if this helps and if you are interested in reading the second part. I will post the second part ASAP. Please stay tuned for the next part of APIs.
--------
 
+--------
 Special thanks to [Akansha Yadav](https://www.linkedin.com/in/akansha-yadav-4bb7321a9/)!
--------
