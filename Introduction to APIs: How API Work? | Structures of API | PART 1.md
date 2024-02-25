@@ -9,11 +9,13 @@ An Application Programming Interface (API) is a set of protocols that allows dif
 **Endpoints:** Each endpoint, typically a specific URL, represents a distinct function the API provides, like querying a database or posting data.
 
 **HTTP Methods:** These define the type of operation to be executed:
+| HTTP Methods | Description |
+| --- | --- |
+| GET | Retrieves data from server  |
+| POST |Submits new data, creating a new entry |
+| PUT/PATCH |  Alters existing data |
+|DELETE  |  Erases data|
 
-- **GET:** Fetches data from a server.
-- **POST:** Submits new data, creating a new entry.
-- **PUT/PATCH:** Alters existing data.
-- **DELETE:** Erases data.
 
 **Headers:** Part of the HTTP request, headers contain metadata such as content type or authentication tokens that provide context for the request.
 
@@ -41,6 +43,7 @@ An Application Programming Interface (API) is a set of protocols that allows dif
 | 3XX| Redirection| | | 500| Server Error|
 | 300| Multiple Choices| | | 501| No Implemented|
 
+
 **Authentication:** Authentication is a critical feature of many APIs, serving as a gateway to ensure that only vetted users or services have access to specified resources. Common methods for API authentication include the use of API keys, OAuth tokens, and various other secure mechanisms.
 
 **Documentation:** Well-designed APIs are accompanied by thorough documentation. Such documentation provides detailed instructions on utilizing the API, outlines the endpoints available, and describes the expected formats for requests and responses. It also includes guidelines for authentication processes. This information is vital for developers to effectively understand and integrate with the API.
@@ -50,11 +53,11 @@ An Application Programming Interface (API) is a set of protocols that allows dif
 An example of the API structure is as follows:
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F12922590%2F1a2e09683554f48292d42a74224b43bc%2FAPI-02.jpg?generation=1708853589342728&alt=media)
 
+- **Scheme:** The 'scheme' refers to the protocol used for the API communication, in this case, `https://`, denoting secure HTTP access.
+
 - **UniformResource Identifier (URL):** A Uniform Resource Identifier (URI) is a string used to identify a resource on the internet, which can be a name or a resource itself. For example, the string is shown below: 
 `https://api.example.com/v1/get/json.xml?parameter1=value1&parameter2=value2 `
 represents a URI where various components are specified. A Uniform Resource Locator (URL) is a subset of URI, which provides the location to access a resource on the web. For instance, `https://api.example.com` is the URL portion of the above URI.
-
-- **Scheme:** The 'scheme' refers to the protocol used for the API communication, in this case, `https://`, denoting secure HTTP access.
 
 - **Route:** The 'route' points to the specific path on the server where the API can be accessed, such as /v1/get/json.xml.
 
