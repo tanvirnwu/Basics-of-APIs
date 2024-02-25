@@ -68,7 +68,9 @@ While discussing APIs, we need to know some additional topics as follows:
 
 
 So far we studied:
-- [Introduction to APIs: How API Work? | Structures of API | PART 1](https://www.kaggle.com/discussions/general/479591#2668341) 
+- [Introduction to APIs: How APIs Work? | Structures of API | PART 1](https://www.kaggle.com/discussions/general/479591#2668341) 
+- [Introduction to APIs: NBA_API | API versus REST API | Accessing Free Public APIs | PART 2](https://www.kaggle.com/discussions/general/479591#2668341)
+-  [Application Programming Interface (API)](https://www.kaggle.com/code/tanvirnwu/application-programming-interface-api?scriptVersionId=164232017)
 
 
 ***Please let me know if you are interested to know more about APIs and need more hands-on examples in Python. Currently, I am also learning the basics of APIs. So, I am also excited to share with you guys if I get some support from you.***
