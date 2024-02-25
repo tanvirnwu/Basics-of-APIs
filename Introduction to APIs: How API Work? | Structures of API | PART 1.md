@@ -64,7 +64,7 @@ represents a URI where various components are specified. A Uniform Resource Loca
 - **Parameters:** Parameters are appended to the URI to provide additional data for the request. In the URI provided, parameter1=value1&parameter2=value2 are the parameters that define the input data for the API request.
 
 
-=====================================================================
+-------
 
 **This is the first part about the introduction of APIs. The second part contains the following topics:**
 - NBA API
