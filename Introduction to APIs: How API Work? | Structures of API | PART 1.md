@@ -65,6 +65,7 @@ represents a URI where various components are specified. A Uniform Resource Loca
 
 
 =====================================================================
+
 **This is the first part about the introduction of APIs. The second part contains the following topics:**
 - NBA API
 - API vs REST API
