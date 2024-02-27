@@ -67,10 +67,11 @@ While discussing APIs, we need to know some additional topics as follows:
 - **Compliance and Legal Considerations:** Be aware of any legal implications or compliance requirements related to the data you access via APIs, especially for commercial projects.
 
 
-So far we studied:
-- [Introduction to APIs: How APIs Work? | Structures of API | PART 1](https://www.kaggle.com/discussions/general/479591#2668341) 
-- [Introduction to APIs: NBA_API | API versus REST API | Accessing Free Public APIs | PART 2](https://www.kaggle.com/discussions/general/479591#2668341)
--  [Application Programming Interface (API)](https://www.kaggle.com/code/tanvirnwu/application-programming-interface-api?scriptVersionId=164232017)
+**So far we studied:**
+- [Introduction to APIs: How APIs Work? | Structures of API | PART 1]([https://www.kaggle.com/discussions/general/479591#2668341](https://github.com/tanvirnwu/Basics-of-APIs/blob/main/Introduction%20to%20APIs%3A%20How%20API%20Work%3F%20%7C%20Structures%20of%20API%20%7C%20PART%201.md)) 
+- [Introduction to APIs: NBA_API | API versus REST API | Accessing Free Public APIs | PART 2](https://github.com/tanvirnwu/Basics-of-APIs/blob/main/Introduction%20to%20APIs%3A%20NBA_API%20%7C%20API%20versus%20REST%20API%20%7C%20Accessing%20Free%20Public%20APIs%20%7C%20PART%202.md)
+- [Application Programming Interface (API)](https://github.com/tanvirnwu/Basics-of-APIs/blob/main/Application%20Programming%20Interface%20(API).ipynb)
 
 
-***Please let me know if you are interested to know more about APIs and need more hands-on examples in Python. Currently, I am also learning the basics of APIs. So, I am also excited to share with you guys if I get some support from you.***
+----------------
+Special thanks to [Akansha Yadav](https://www.linkedin.com/in/akansha-yadav-4bb7321a9)!
