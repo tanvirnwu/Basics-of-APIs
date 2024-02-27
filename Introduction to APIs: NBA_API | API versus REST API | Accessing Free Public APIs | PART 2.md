@@ -68,7 +68,7 @@ While discussing APIs, we need to know some additional topics as follows:
 
 
 **So far we studied:**
-- [Introduction to APIs: How APIs Work? | Structures of API | PART 1]([https://www.kaggle.com/discussions/general/479591#2668341](https://github.com/tanvirnwu/Basics-of-APIs/blob/main/Introduction%20to%20APIs%3A%20How%20API%20Work%3F%20%7C%20Structures%20of%20API%20%7C%20PART%201.md)) 
+- [Introduction to APIs: How APIs Work? | Structures of API | PART 1](https://github.com/tanvirnwu/Basics-of-APIs/blob/main/Introduction%20to%20APIs%3A%20How%20API%20Work%3F%20%7C%20Structures%20of%20API%20%7C%20PART%201.md) 
 - [Introduction to APIs: NBA_API | API versus REST API | Accessing Free Public APIs | PART 2](https://github.com/tanvirnwu/Basics-of-APIs/blob/main/Introduction%20to%20APIs%3A%20NBA_API%20%7C%20API%20versus%20REST%20API%20%7C%20Accessing%20Free%20Public%20APIs%20%7C%20PART%202.md)
 - [Application Programming Interface (API)](https://github.com/tanvirnwu/Basics-of-APIs/blob/main/Application%20Programming%20Interface%20(API).ipynb)
 
