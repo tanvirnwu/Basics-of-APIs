@@ -51,7 +51,7 @@ results = json.loads(data.text)
 Keep in mind that the exact endpoint you need may vary by API, so consulting the API's documentation is crucial for understanding its usage.
 
 I already published a notebook showing how to access public API. **Please check the following notebook to get some hands-on experience. **
->[**Application Programming Interface (API)**](https://www.kaggle.com/code/tanvirnwu/application-programming-interface-api?scriptVersionId=164232017)
+>[**Application Programming Interface (API)**](https://github.com/tanvirnwu/Basics-of-APIs/blob/main/Application%20Programming%20Interface%20(API).ipynb)
 
 ## Extras
 While discussing APIs, we need to know some additional topics as follows:
