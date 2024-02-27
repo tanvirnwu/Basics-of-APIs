@@ -1,6 +1,6 @@
 Hello Dears,
 
-In the Introduction to APIs series, so far, we in the [**PART 1**](https://www.kaggle.com/discussions/general/479591#2668341) learned about API and its structures. Before starting this part, please read PART 1 if API is something new to you.
+In the Introduction to APIs series, so far, we in the [**PART 1**](https://github.com/tanvirnwu/Basics-of-APIs/blob/main/Introduction%20to%20APIs%3A%20How%20API%20Work%3F%20%7C%20Structures%20of%20API%20%7C%20PART%201.md) learned about API and its structures. Before starting this part, please read PART 1 if API is something new to you.
 
 **In this part we are going to learn the following:**
 - NBA_API
