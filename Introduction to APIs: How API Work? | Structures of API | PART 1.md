@@ -65,16 +65,13 @@ represents a URI where various components are specified. A Uniform Resource Loca
 - **Parameters:** Parameters are appended to the URI to provide additional data for the request. In the URI provided, parameter1=value1&parameter2=value2 are the parameters that define the input data for the API request.
 
 
--------
 
-**This is the first part about the introduction of APIs. The second part contains the following topics:**
-- NBA API
-- API vs REST API
-- Accessing free public APIs
+----
+**So far we studied:**
+- [Introduction to APIs: How APIs Work? | Structures of API | PART 1]([https://www.kaggle.com/discussions/general/479591#2668341](https://github.com/tanvirnwu/Basics-of-APIs/blob/main/Introduction%20to%20APIs%3A%20How%20API%20Work%3F%20%7C%20Structures%20of%20API%20%7C%20PART%201.md)) 
+- [Introduction to APIs: NBA_API | API versus REST API | Accessing Free Public APIs | PART 2](https://github.com/tanvirnwu/Basics-of-APIs/blob/main/Introduction%20to%20APIs%3A%20NBA_API%20%7C%20API%20versus%20REST%20API%20%7C%20Accessing%20Free%20Public%20APIs%20%7C%20PART%202.md)
+- [Application Programming Interface (API)](https://github.com/tanvirnwu/Basics-of-APIs/blob/main/Application%20Programming%20Interface%20(API).ipynb)
 
-**Here is a Coding example of APIs in Python:** [Application Programming Interface (API)](https://www.kaggle.com/code/tanvirnwu/application-programming-interface-api?scriptVersionId=164232017)
-
-Please let me know in the comment section if this helps and if you are interested in reading the second part. I will post the second part ASAP. Please stay tuned for the next part of APIs.
 
 --------
 Special thanks to [Akansha Yadav](https://www.linkedin.com/in/akansha-yadav-4bb7321a9/)!
